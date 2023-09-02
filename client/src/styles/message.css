@@ -1,0 +1,18 @@
+.smbtn{
+    position: absolute;
+    padding:20px;
+    top: 360px;
+    left:640px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #DB914B;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+    box-shadow: 5px 10px 30px #000;
+}
+.smbtn:hover{
+    box-shadow: 3px 7px 10px #000 ;
+}

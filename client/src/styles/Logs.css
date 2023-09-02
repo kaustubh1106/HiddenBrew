@@ -1,0 +1,23 @@
+.table-sec{
+    position:absolute;
+    width: 1040px;
+    height: 440px;
+    overflow: auto;
+    background-color: #E3C49A;
+    color: #2E2C29;
+    top:0px;
+    left:0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    padding:40px;
+    border-radius: 20px;
+}
+table, th, td{
+    border: 1px solid black;
+}
+
+.table1{
+    border-collapse: collapse;
+    width:100%;
+}

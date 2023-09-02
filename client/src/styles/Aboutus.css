@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+
+.about1{
+    position: absolute;
+    top: 405px;
+    left: 144px;
+    color: #EADBC3;
+    font-family: Belleza;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.content{
+    position: absolute;
+    background-color: #DB914BB2;
+    width: 640px;
+    height: 582px;
+    top:164px;  
+    left: 680px;
+    padding:67px;
+    border-radius: 68px
+}
+.content1{
+    color: #2E2C29;
+    font-family: Belleza;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
